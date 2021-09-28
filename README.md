@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Idongesiteyo
-- 👀 I’m a Certified Scrum Professional and I'm interested in Software Testing 
+- 👀 I’m a Software Quality Assurance Analyst, a Certified Scrum Professional and I'm interested in Software Testing 
 - 🌱 I’m currently learning Python and Java for Software test automation
 - 💞️ I’m looking to collaborate on Software Testing projects 
 - 📫 How to reach me idongesit.eyo1@outlook.com
